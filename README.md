@@ -72,7 +72,7 @@ Danny has shared with you 3 key datasets for this case study:
 
 **Both Customer A and C's most purchased menu item was Ramen. Customer B purchased all 3 menu items an equal number of times.**
 
-- Which item was purchased first by the customer after they became a member?
+- Which item was purchased first by the customer after they became a  member?
 
 ![](https://github.com/krishnachavan01/images/blob/main/q6.jpg?raw=true)
 ![](https://github.com/krishnachavan01/images/blob/main/s6.jpg?raw=true)

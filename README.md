@@ -48,7 +48,7 @@ Danny has shared with you 3 key datasets for this case study:
 
 ![](https://github.com/krishnachavan01/images/blob/main/s2.jpg?raw=true)
 
-Customer A visited the restaurant 4 times, Customer B visited the restaurant 6 times, and Customer C visited the restaurant twice.
+**Customer A visited the restaurant 4 times, Customer B visited the restaurant 6 times, and Customer C visited the restaurant twice.**
 
 -  What was the first item from the menu purchased by each customer?
 
@@ -56,48 +56,48 @@ Customer A visited the restaurant 4 times, Customer B visited the restaurant 6 t
 
 ![](https://github.com/krishnachavan01/images/blob/main/s3.jpg?raw=true)
 
-On the first visit, Customer A ordered both Curry and Sushi while Customer B ordered Curry and Customer C ordered Ramen.
+**On the first visit, Customer A ordered both Curry and Sushi while Customer B ordered Curry and Customer C ordered Ramen.**
 
 - What is the most purchased item on the menu and how many times was it purchased by all customers?
 
 ![](https://github.com/krishnachavan01/images/blob/main/q4.jpg?raw=true)
 ![](https://github.com/krishnachavan01/images/blob/main/s4.jpg?raw=true)
 
-The most purchased item on the menu overall was Ramen as it had 8 total purchases. Both Customers A and C purchased Ramen 3 times while Customer B purchased Ramen twice.
+**The most purchased item on the menu overall was Ramen as it had 8 total purchases. Both Customers A and C purchased Ramen 3 times while Customer B purchased Ramen twice.**
 
 - Which item was the most popular for each customer?
 
 ![](https://github.com/krishnachavan01/images/blob/main/q5.jpg?raw=true)
 ![](https://github.com/krishnachavan01/images/blob/main/s5.jpg?raw=true)
 
-Both Customer A and C's most purchased menu item was Ramen. Customer B purchased all 3 menu items an equal number of times
+**Both Customer A and C's most purchased menu item was Ramen. Customer B purchased all 3 menu items an equal number of times.**
 
 - Which item was purchased first by the customer after they became a member?
 
 ![](https://github.com/krishnachavan01/images/blob/main/q6.jpg?raw=true)
 ![](https://github.com/krishnachavan01/images/blob/main/s6.jpg?raw=true)
 
-After becoming a member, Customer A's first purchase was Ramen while Customer B's first purchase was Sushi.
+**After becoming a member, Customer A's first purchase was Ramen while Customer B's first purchase was Sushi.**
 
 - Which item was purchased just before the customer became a member?
 
 ![](https://github.com/krishnachavan01/images/blob/main/q7.jpg?raw=true)
 ![](https://github.com/krishnachavan01/images/blob/main/s7.jpg?raw=true)
 
-Before becoming a member, Customer A purchased both Sushi and Curry while Customer B only purchased Sushi.
+**Before becoming a member, Customer A purchased both Sushi and Curry while Customer B only purchased Sushi.**
 
 - What is the total items and amount spent for each member before they became a member?
 
 ![](https://github.com/krishnachavan01/images/blob/main/q8.jpg?raw=true)
 ![](https://github.com/krishnachavan01/images/blob/main/s8.jpg?raw=true)
 
-Before becoming a member, Customer A purchased 2 items and spent $25 total. Customer B purchased 3 items and spent $40 prior to becoming a member.
+**Before becoming a member, Customer A purchased 2 items and spent $25 total. Customer B purchased 3 items and spent $40 prior to becoming a member.**
 
 - If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
 
 ![](https://github.com/krishnachavan01/images/blob/main/q9.jpg?raw=true)
 ![](https://github.com/krishnachavan01/images/blob/main/s9.jpg?raw=true)
 
-Customer A would have 860 points, Customer B would have 940 points, and Customer C would have 360 points.
+**Customer A would have 860 points, Customer B would have 940 points, and Customer C would have 360 points.**
 
 
